@@ -21,7 +21,7 @@ Lcorp City, or LCC is a Proof of concept Lore-Driven RPG Survival server project
 # Create a ticket:
 can be for an issue, suggestion of a new feature, or a change.
 
-[![Create Ticket](https://media.lcorpcity.com/img/web/button_create-a-ticket.png)](https://github.com/LcorpOfficial/LCC-Minecraft-Server/issues/new)   
+[![Create Ticket](https://github.com/LcorpOfficial/LCC-Minecraft-Server/issues/new/choose)   
 
 # See current set of tickets:
 
