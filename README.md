@@ -31,7 +31,6 @@ can be for an issue, suggestion of a new feature, or a change.
 
 The premise behind the concept is to host a Minecraft server that creates a community of neighbors and friends, who can interact with the world of LCC in interesting and fun ways. there are tools available here to further enhance your Lcorp City Experience, such as the interactive map, resources, the Admin Enchant reference page, and the page to apply for the Elite Rank!
 
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/lcorpcity.com/embed" width="728" height="90"></iframe>
 ​
 **IP Address:** LcorpCity.com
 
