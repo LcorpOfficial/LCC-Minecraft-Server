@@ -1,5 +1,7 @@
 # LCC-Minecraft-Server   
-**IP Address:** LcorpCity.com          **Version:** Java Edition 1.16.X
+**IP Address:** LcorpCity.com
+
+**Version:** Java Edition 1.16.X
 
 Tracking issues and updates within the Lcorp City Minecraft Server
 
