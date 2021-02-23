@@ -1,4 +1,4 @@
-# LCC-Minecraft-Server
+# LCC-Minecraft-Server    **IP Address:** LcorpCity.com   **Version:** Java Edition 1.16.X
 Tracking issues and updates within the Lcorp City Minecraft Server
 
 ![LCC](https://static.wixstatic.com/media/5e2ff2_657ff056d00c4425ae4098147e1ad566~mv2.png/v1/fill/w_579,h_176,al_c,q_85,usm_0.66_1.00_0.01/LCC2019banner%20shadowed.webp)
@@ -29,6 +29,3 @@ can be for an issue, suggestion of a new feature, or a change.
 
 
 
-**IP Address:** LcorpCity.com
-
-**Version:** Java Edition 1.16.X
