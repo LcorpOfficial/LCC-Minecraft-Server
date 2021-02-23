@@ -27,11 +27,8 @@ can be for an issue, suggestion of a new feature, or a change.
 
 [![Wiki](https://media.lcorpcity.com/img/web/button_wiki.png)](https://github.com/LcorpOfficial/LCC-Minecraft-Server/wiki)  
 
-​
 
-The premise behind the concept is to host a Minecraft server that creates a community of neighbors and friends, who can interact with the world of LCC in interesting and fun ways. there are tools available here to further enhance your Lcorp City Experience, such as the interactive map, resources, the Admin Enchant reference page, and the page to apply for the Elite Rank!
 
-​
 **IP Address:** LcorpCity.com
 
 **Version:** Java Edition 1.16.X
