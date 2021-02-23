@@ -1,4 +1,4 @@
-# LCC-Minecraft-Server   
+# Lcorp City Minecraft Server
 **IP Address:** LcorpCity.com
 
 **Version:** Java Edition 1.16.X
