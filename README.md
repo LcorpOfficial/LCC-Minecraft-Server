@@ -11,6 +11,9 @@ Lcorp City, or LCC is a Proof of concept Lore-Driven RPG Survival server project
 
   - Build a town, Sell with shops, Adventure, and get involved with the community!
 
+
+
+
 Create a ticket for an issue or suggestion of a new feature or change here; Make sure to label it appropriately!
 
 [![Create Ticket](https://media.lcorpcity.com/img/web/button_create-a-ticket.png)](https://github.com/LcorpOfficial/LCC-Minecraft-Server/issues/new)   
