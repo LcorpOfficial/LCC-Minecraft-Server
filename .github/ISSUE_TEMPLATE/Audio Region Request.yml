@@ -18,16 +18,9 @@ body:
       x,y,z x,y,z
   validations:
     required: true
-- type: textarea
-  attributes:
-    label: Expected Behavior
-    description: provide URLS here, separated by commas.
-  validations:
-    required: true
-- type: textarea
   attributes:
     label: Tracks
-    description: Steps to reproduce the behavior.
+    description: provide URLS here, separated by commas.
     placeholder: |
       1. URL...
       2. URL...
@@ -38,7 +31,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: 
+    label: Name
     description: Give your location a name (no spaces)
     placeholder: |
       insert_name_here
