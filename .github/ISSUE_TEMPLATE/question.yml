@@ -1,0 +1,11 @@
+name: ❓ Question
+description: Ask a general question about the server or a feature in Lcorp City.
+title: "[QUESTION] <title>"
+labels: [question]
+body:
+- type: textarea
+  attributes:
+    label: Question
+    description: Insert your Question here
+  validations:
+    required: true
