@@ -1,4 +1,4 @@
-name: 🐜 Bug Report
+name: 🐞 Bug Report
 description: Create a report to identify a bug or glitch on LCC.
 title: "[Bug Report] <title>"
 labels: [bug]
@@ -9,9 +9,10 @@ body:
     description: A clear and concise description of what the bug is.
   validations:
     required: true
+- type: textarea
   attributes:
     label: To Reproduce
-    description: Steps to reproduce the behavior:
+    description: Steps to reproduce the behavior
     placeholder: |
       1. 
       2. 
