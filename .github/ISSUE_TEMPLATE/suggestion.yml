@@ -8,8 +8,8 @@ body:
       label: Is your feature request related to a problem?
       description: Does this suggestion relate to an issue on the server??
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
   validations:
     required: true
 - type: textarea
