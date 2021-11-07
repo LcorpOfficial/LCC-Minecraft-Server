@@ -37,17 +37,11 @@ body:
       insert_name_here
   validations:
     required: false
-- type: textarea
+- type: checkboxes
   attributes:
     label: Audio Region Rules
     description: |
       Some Audio Regions can be set with other rules, listed here:
-  validations:
-    required: false
-- type: checkboxes
-  attributes:
-    label: Speaker Voucher?
-    description: Purchase a Speaker Voucher from `/ah`.
     options:
     - label: Allow Guards and Citizens to spawn, like a town or city.
       required: false
