@@ -4,7 +4,7 @@ title: "[SUGGESTION] <title>"
 labels: [suggestion]
 body:
 - type: dropdown
-    attributes:
+  attributes:
       label: Is your feature request related to a problem?
       description: Does this suggestion relate to an issue on the server??
       options:
