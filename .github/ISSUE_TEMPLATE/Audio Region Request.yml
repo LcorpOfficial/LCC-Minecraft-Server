@@ -1,0 +1,77 @@
+name: 🎶 Audio Region Request
+description: More than likely you will want custom music or audio in your regions, be it a shop or town, or similar. Audio regions can only be done by Admins.
+title: "[AUDIO REQUEST] <title>"
+labels: [Audio Region]
+body:
+- type: checkboxes
+  attributes:
+    label: Speaker Voucher?
+    description: Purchase a Speaker Voucher from `/ah`.
+    options:
+    - label: I have Purchased a Speaker Voucher.
+      required: true
+- type: textarea
+  attributes:
+    label: Region Coordinates
+    description: Take note of the X,Y,and Z coordinates of two opposing corners you wish the audio to cover in a 3D space
+    placeholder: |
+      x,y,z x,y,z
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: provide URLS here, separated by commas.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Tracks
+    description: Steps to reproduce the behavior.
+    placeholder: |
+      1. URL...
+      2. URL...
+      3. URL...
+      4. URL...
+      5. URL...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: 
+    description: Give your location a name (no spaces)
+    placeholder: |
+      insert_name_here
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Audio Region Rules
+    description: |
+      Some Audio Regions can be set with other rules, listed here:
+  validations:
+    required: false
+- type: checkboxes
+  attributes:
+    label: Speaker Voucher?
+    description: Purchase a Speaker Voucher from `/ah`.
+    options:
+    - label: Allow Guards and Citizens to spawn, like a town or city.
+      required: false
+    - label: Prevent specific mob types from spawning at all.
+      required: false
+    - label: Prevent PVP in the region.
+      required: false
+    - label: Allow for KeepInventory (disable death backpacks) in your region if it's an area meant to be used for combat.
+      required: false
+    - label: give (1) Potion Effect.
+      required: false
+    - label: Set a welcome message.
+      required: false
+- type: textarea
+  attributes:
+    label: Welcome Message
+    placeholder: |
+      Now entering: Name of Place
+  validations:
+    required: false
