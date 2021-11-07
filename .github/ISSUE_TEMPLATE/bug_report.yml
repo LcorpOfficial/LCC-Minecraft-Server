@@ -2,6 +2,9 @@ name: 🐞 Bug Report
 description: Create a report to identify a bug or glitch on LCC.
 title: "[Bug Report] <title>"
 labels: [bug]
+assignees:
+  - LcorpOfficial
+  - Nine_Juan_Juan
 body:
 - type: textarea
   attributes:
