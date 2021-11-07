@@ -2,6 +2,10 @@ name: ‼️ Suggestion
 description: Suggest an idea a change or feature addition.
 title: "[SUGGESTION] <title>"
 labels: [suggestion]
+assignees:
+  - LcorpOfficial
+  - strawberryfein
+  - Nine-JuanJuan
 body:
 - type: dropdown
   attributes:
