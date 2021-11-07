@@ -2,6 +2,8 @@ name: 🎶 Audio Region Request
 description: More than likely you will want custom music or audio in your regions, be it a shop or town, or similar. Audio regions can only be done by Admins.
 title: "[AUDIO REQUEST] <title>"
 labels: [Audio Region]
+assignees:
+  - LcorpOfficial
 body:
 - type: checkboxes
   attributes:
