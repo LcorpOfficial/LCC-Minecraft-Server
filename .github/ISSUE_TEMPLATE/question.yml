@@ -2,6 +2,10 @@ name: ❓ Question
 description: Ask a general question about the server or a feature in Lcorp City.
 title: "[QUESTION] <title>"
 labels: [question]
+assignees:
+  - LcorpOfficial
+  - Nine-JuanJuan
+  - strawberryfein
 body:
 - type: textarea
   attributes:
