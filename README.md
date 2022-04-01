@@ -1,7 +1,7 @@
 # Lcorp City Minecraft Server
 **IP Address:** LcorpCity.com
 
-**Version:** Java Edition 1.17.1
+**Version:** Java Edition 1.18.1
 
 Tracking issues and updates within the Lcorp City Minecraft Server
 
